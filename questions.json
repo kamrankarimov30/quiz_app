@@ -1,0 +1,62 @@
+[
+  {
+    "text": "What does CIA in cybersecurity stand for?",
+    "answer": "Confidentiality, Integrity, Availability"
+  },
+  {
+    "text": "Which type of malware self-replicates and infects other computers?",
+    "answer": "Worm"
+  },
+  {
+    "text": "Which tool is used for automated vulnerability scanning?",
+    "answer": "Nessus"
+  },
+  {
+    "text": "What is the process of disguising a message to hide its original content?",
+    "answer": "Encryption"
+  },
+  {
+    "text": "What is the name for weaknesses in a computer system that can be exploited by a threat?",
+    "answer": "Vulnerabilities"
+  },
+  {
+    "text": "Which protocol is used for secure web browsing?",
+    "answer": "HTTPS"
+  },
+  {
+    "text": "What is a common term used to describe an attempt to trick someone into sharing their sensitive information, often through email?",
+    "answer": "Phishing"
+  },
+  {
+    "text": "What is a system designed to prevent unauthorized access to or from a private network?",
+    "answer": "Firewall"
+  },
+  {
+    "text": "What type of testing involves identifying vulnerabilities without having internal information beforehand?",
+    "answer": "Black Box Testing"
+  },
+  {
+    "text": "What term refers to a network configured to attract cyber attackers, so as to study their activities?",
+    "answer": "Honeypot"
+  },
+  {
+    "text": "Which type of attack targets a software vulnerability that is unknown to its vendor?",
+    "answer": "Zero-Day Attack"
+  },
+  {
+    "text": "Which encryption algorithm uses a variable-length key of 128, 192, or 256 bits?",
+    "answer": "AES"
+  },
+  {
+    "text": "Which attack involves intercepting communication between two entities to steal or manipulate information?",
+    "answer": "Man-in-the-Middle Attack"
+  },
+  {
+    "text": "In cybersecurity, what does 'DOS' stand for?",
+    "answer": "Denial of Service"
+  },
+  {
+    "text": "Which authentication method requires two or more pieces of evidence before granting access?",
+    "answer": "Two-Factor Authentication"
+  }
+]
